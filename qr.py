@@ -7,4 +7,4 @@ qr.add_data("https://i.im.ge/2024/10/13/kwJ9Fa.1000017266.jpeg")
 qr.make(fit= True)
 
 img = qr.make_image(fill_color ="Black",black_color="white")
-img.save("qr.png")
+img.save("divya.png")
